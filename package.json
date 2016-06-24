@@ -28,6 +28,6 @@
     "ace"
   ],
   "devDependencies": {
-    "github-syntax-theme-generator": "^0.1.0"
+    "github-syntax-theme-generator": "*"
   }
 }
